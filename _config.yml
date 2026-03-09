@@ -1,0 +1,21 @@
+
+name: "Aidan Alaniz"
+title: "Aidan Alaniz — Portfolio"
+description: "Software projects, notes, and contact info"
+url: "https://aidanalaniz.github.io"
+baseurl: ""
+theme: null
+markdown: kramdown
+kramdown:
+  input: GFM
+social:
+  github: aidanalaniz
+nav:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects
+  - title: Blog
+    url: /blog
+  - title: About
+    url: /about
